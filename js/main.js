@@ -61,6 +61,10 @@ $(document).ready(function(){
     });
 });
 
+
+
+
+
 $(document).ready(function(){
     jQuery(".tile2").append("<p class='hovertext2'>Several Syn Studio Instructors designed props and environments for the X-Men movies</p>");
         jQuery(".tile2 .hovertext2").hide();
